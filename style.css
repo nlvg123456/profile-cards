@@ -27,4 +27,6 @@ background-color: #008060;
 } .btn:hover {
 opacity: 0.85;
 transition: 0.2s;
+} .notice {
+text-align: center;
 }
