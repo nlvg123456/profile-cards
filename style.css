@@ -10,7 +10,6 @@ cursor: pointer;
 } .cards {
 display: flex;
 justify-content: center;
-text-align: center;
 } .card {
 background-color: beige;
 text-align: center;
