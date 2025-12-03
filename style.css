@@ -29,6 +29,8 @@ margin: 5px;
 background-color: #0077b5;
 } .youtube {
 background-color: #008060;
+} .github {
+background-color: black;
 } .btn:hover {
 opacity: 0.85;
 transition: 0.2s;
