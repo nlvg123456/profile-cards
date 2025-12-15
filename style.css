@@ -1,42 +1,44 @@
 #title {
-font-size: 60px;
-text-align: center;
+  font-size: 60px;
+  text-align: center;
 } img {
-width: 150px;
-height: 150px;
-border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
 } a {
-cursor: pointer;
+  cursor: pointer;
 } .cards {
-display: flex;
-justify-content: center;
+  display: flex;
+  justify-content: center;
 } .card {
-background-color: beige;
-text-align: center;
-width: 280px;
-border-radius: 15px;
-box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-border-width: 5px;
-border-color: light grey;
-padding: 20px;
-margin: 40px auto;
+  background-color: beige;
+  text-align: center;
+  width: 280px;
+  border-radius: 15px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  border-width: 5px;
+  border-color: light grey;
+  padding: 20px;
+  margin: 40px auto;
 } .btn {
-display: inline-block;
-padding: 10px 20px;
-border-radius: 8px;
-text-decoration: none;
-color: white;
-font-weight: bold;
-margin: 5px;
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 8px;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  margin: 5px;
 } .website {
-background-color: #0077b5;
+  background-color: #0077b5;
 } .youtube {
-background-color: #008060;
+  background-color: #008060;
 } .github {
-background-color: black;
+  background-color: black;
 } .btn:hover {
-opacity: 0.85;
-transition: 0.2s;
+  opacity: 0.85;
+  transition: 0.2s;
 } .notice {
-text-align: center;
+  text-align: center;
+} .dev-text {
+  font-family: "JetBrains Mono", monospace;
 }
