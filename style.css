@@ -41,4 +41,6 @@
   text-align: center;
 } .dev-text {
   font-family: "JetBrains Mono", monospace;
+  letter-spacing: 0.5px;
+  opacity: 0.85;
 }
