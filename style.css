@@ -45,4 +45,6 @@
   opacity: 0.85;
 } .line1 {
   display: flex;
+} .basic {
+  background-color: gray;
 }
